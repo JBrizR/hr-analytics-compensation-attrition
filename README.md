@@ -37,3 +37,6 @@ ibm-hr-analytics-turnover-compensation/
 ├── notebooks/
 │   ├── 00_data_profiling.ipynb   <-- Data cleaning
 │   ├── 01_compensation_audit.ipynb   <-- Track 1: Linear Regression
+├── src/
+│   ├── data_quality.py       <-- Data quality & profiling functions
+│   ├── data_preprocessing.py      <-- Data preprocessing functions
